@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Create a personal portfolio page and deploy it to [GitHub pages](https://pages.github.com/). Please refer to the documentation on GitHub for detailed instructions!
+Create a personal portfolio page and deploy it to [GitHub Pages](https://pages.github.com/). Please refer to the documentation on GitHub for detailed instructions!
 
 ## Requirements
 
@@ -42,7 +42,6 @@ Personal websites from some previous SEI grads:
 * http://bnmrrs.com/
 * http://raleighdaniel.com/
 * http://jlappano.github.io/
-* http://bradpuder.com/
 * http://kevoncheung.com/
 * http://www.larrybuch.com/
 * http://adrianbautista.com/
