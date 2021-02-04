@@ -11,7 +11,8 @@ Create a personal portfolio page and deploy it to [GitHub Pages](https://pages.g
 - Valid HTML (It should [pass the W3 HTML validator](https://validator.w3.org/#validate_by_input)).
 - Valid CSS (It should [pass the W3 CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input)).
 - No JavaScript required! 
-- Your page must be deployed to [GitHub pages](https://pages.github.com/). This is a free hosting service provided by GitHub. You should name your repository `your-username.github.io`. The result is that your page will be publicly available at http://your-username.github.io.
+- Functional for both small and large screens (aka responsive design)
+- Deployed to [GitHub pages](https://pages.github.com/). This is a free hosting service provided by GitHub. You should name your repository `your-username.github.io`. The result is that your page will be publicly available at http://your-username.github.io.
 
 > You have not been taught how to deploy to Github Pages. That's okay! This is an opportunity to learn something new on your own. Just follow the instructions [here](https://pages.github.com/). If you run into any issues, just ask for help.
 
