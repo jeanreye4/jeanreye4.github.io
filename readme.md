@@ -55,4 +55,4 @@ You can also search "developer portfolio website" for more ideas :)
 
 * Explore CSS animations
 * Try using some JavaScript
-* Buy a custom domain name for your website (see https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
+* Buy and configure a [custom domain name](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
