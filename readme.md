@@ -2,16 +2,16 @@
 
 ## Instructions
 
-Create a personal portfolio page and deploy it to [GitHub Pages](https://pages.github.com/). Please refer to the documentation on GitHub for detailed instructions!
+Create a personal portfolio page using HTML and CSS and deploy it to [GitHub Pages](https://pages.github.com/). Please refer to the documentation on GitHub for detailed instructions!
 
 ## Requirements
 
 - Separation of concerns: HTML is strictly for content, CSS is strictly for style. 
-- Your CSS should be in a linked stylesheet separate from your HTML file.
-- Valid HTML (It should [pass the W3 HTML validator](https://validator.w3.org/#validate_by_input)).
-- Valid CSS (It should [pass the W3 CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input)).
+- Your CSS and HTML should be in separate files.
+- Your HTML should pass the [W3 HTML validator](https://validator.w3.org/#validate_by_input)).
+- Your CSS should pass the [W3 CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input)).
 - No JavaScript required! 
-- Functional for both small and large screens ([aka responsive design](https://git.generalassemb.ly/dc-wdi-fundamentals/responsive-design))
+- Functional for both small and large screens (aka [responsive design](https://git.generalassemb.ly/sei-cosmic-binturongs/responsive-design))
 - Deployed to [GitHub pages](https://pages.github.com/). This is a free hosting service provided by GitHub. You should name your repository `your-username.github.io`. The result is that your page will be publicly available at http://your-username.github.io.
 
 > You have not been taught how to deploy to Github Pages. That's okay! This is an opportunity to learn something new on your own. Just follow the instructions [here](https://pages.github.com/). If you run into any issues, just ask for help.
@@ -55,3 +55,4 @@ You can also search "developer portfolio website" for more ideas :)
 
 * Explore CSS animations
 * Try using some JavaScript
+* Buy a custom domain name for your website (see https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
